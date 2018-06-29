@@ -4,8 +4,6 @@ Course can be found in [Coursera](https://www.coursera.org/specializations/deep-
 
 Quiz and answers are collected in my blog [SSQ](https://ssq.github.io/2017/08/28/Coursera%20Ng%20Deep%20Learning%20Specialization%20Notebook/)
 
-Programming assignments will not be listed till I finish all the lectures due to the honor code.
-
 ## 1. Neural Networks and Deep Learning
 
 Course can be found in [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning)
